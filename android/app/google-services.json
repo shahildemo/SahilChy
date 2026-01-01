@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622388226068",
+    "project_id": "futsalfinder-eed19",
+    "storage_bucket": "futsalfinder-eed19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622388226068:android:a60e33ef493394bda81f01",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhdNHlu93VUwK7SG2vs3Zjg1fAgSdp1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
